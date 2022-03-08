@@ -35,9 +35,9 @@ O objetivo desse projeto é mostrar a utilização do algoritmo _Knapsack_ resol
 
 **Linguagem**: Python3 | C++<br>
 **Framework**: Nenhuma<br>
-**Pré-requisitos:**:
-    _Sistema Operacional Indicado_: Ubuntu e derivados
-    _[Python3](https://www.python.org/download/releases/3.0/)_ | _[G++](https://www.digitalocean.com/community/questions/how-to-run-a-c-app-in-linux)_
+**Pré-requisitos:**:<br>
+    _Sistema Operacional Indicado_: Ubuntu e derivados<br>
+    _[Python3](https://www.python.org/download/releases/3.0/)_ | _[G++](https://www.digitalocean.com/community/questions/how-to-run-a-c-app-in-linux)_<br>
 <!-- Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários. -->
 
 ## Uso
@@ -55,7 +55,7 @@ Execute o primeiro Problema:<br>
 
 Execute o segundo Problema:<br>
 `$ g++ 1288.cpp -o 1288` <br>
-`$ ./1288`
+`$ ./1288`<br>
 
 <!-- ## Outros
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo. -->
