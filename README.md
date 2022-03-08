@@ -12,7 +12,7 @@
 
 ## Sobre
 
-O objetivo desse projeto é mostrar a utilização do algoritmo ambiciosso _Knapsack_ resolvendo dois problemas selecionados no [beecrowd](https://www.beecrowd.com.br/):
+O objetivo desse projeto é mostrar a utilização do algoritmo _Knapsack_ resolvendo dois problemas selecionados no [Beecrowd](https://www.beecrowd.com.br/):
 
 - [1286](https://www.beecrowd.com.br/judge/pt/problems/view/1286)
 - [1288](https://www.beecrowd.com.br/judge/pt/problems/view/1288)
@@ -27,13 +27,17 @@ O objetivo desse projeto é mostrar a utilização do algoritmo ambiciosso _Knap
 
 - 1288:
 
-![1288]()
+![1288](./src/img/1288/1.png)
+![1288](./src/img/1288/2.png)
+![1288](./src/img/1288/3.png)
 
 ## Instalação
 
-**Linguagem**: Python3 e C++<br>
+**Linguagem**: Python3 | C++<br>
 **Framework**: Nenhuma<br>
-**Sistema Operacional Indicado**: Ubuntu e derivados
+**Pré-requisitos:**:
+    _Sistema Operacional Indicado_: Ubuntu e derivados
+    _[Python3](https://www.python.org/download/releases/3.0/)_ | _[G++](https://www.digitalocean.com/community/questions/how-to-run-a-c-app-in-linux)_
 <!-- Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários. -->
 
 ## Uso

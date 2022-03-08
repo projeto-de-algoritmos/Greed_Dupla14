@@ -1,7 +1,7 @@
 # Retorna o valor maximo que pode ser colocado
 # em uma Mochila de capacidade W
 
-# Funca que implementa o algoritmo da Mochila
+# Funcao que implementa o algoritmo da Mochila
 def knapSack(W, wt, val, n):
 
     # Caso base
@@ -46,5 +46,5 @@ while True:
         val.append(line[0])
         wt.append(line[1])
     
-    # Imprimi a saida
+    # Imprime a saida
     print('\n {} min.'.format(knapSack(p, wt, val, len(val))))
